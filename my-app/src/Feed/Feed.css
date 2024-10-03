@@ -1,0 +1,40 @@
+.image3{
+border-radius: 50%;
+width: 50px;
+height: 50px;
+}
+
+.containerfeed{
+    -webkit-box-shadow: 1px 1px 5px 4px #CECECE; 
+    box-shadow: 1px 1px 5px 4px #CECECE;
+    width: 450px;
+    margin-left: 10px;
+    padding: 20px;
+    margin: 10px;
+    border-radius: 5px;
+    flex: 1;
+}
+
+.containers{
+    display: flex;
+    align-items: center;
+   
+}
+.container2{
+    display: flex;
+    padding: 5px;
+    gap: 12px;
+}
+.btn2{
+    border-radius: 5px;
+    padding: 8px 8px;
+    border: none;
+    cursor: pointer;
+   color: white;
+   background-color: green;
+   margin-left: 50px;
+}
+.text{
+    margin-left: 3px;
+}
+

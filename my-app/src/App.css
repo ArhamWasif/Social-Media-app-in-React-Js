@@ -1,0 +1,40 @@
+body, html {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+
+.a {
+  display: flex;
+  height: 100vh;
+}
+.sidebar1{
+  flex: 1;
+}
+.rightbar1 {
+  width: 25%;
+  flex: 1;
+  margin-left: -800px;
+ 
+  background-color: #f0f0f0;
+ 
+}
+.post1{
+  flex: 1;
+}
+.feed1 {
+  flex: 1;
+  background-color: #fff;
+ margin-left: -1350px;
+  
+}
+
+@media (max-width: 768px) {
+  .app {
+      flex-direction: column;
+  }
+
+  .rightbar {
+      width: 100%;
+  }
+}

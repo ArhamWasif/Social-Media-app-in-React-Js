@@ -1,0 +1,51 @@
+.birth{
+    display: flex;
+    
+}
+.rightbar{
+    /* flex: 5; */
+}
+.title1{
+    align-items: center;
+    justify-content: center;
+}
+.onlineconta{
+    display: flex;
+}
+.dot{
+    height: 12px;
+    width: 12px;
+    background-color: green;
+    border-radius: 5px;
+    margin-right: 10px;
+    
+}
+
+.image6{
+    height: 50px;
+    width: 50px;
+
+}
+.image7{
+    height: 380px;
+    width: 500px;
+    border-radius: 10px;
+    margin-right: 1000px;
+    
+
+}
+.image8{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    
+
+}
+.title2{
+    font-size: 20px;
+    margin-right: 1380px;
+}
+.name1{
+  font-weight: 500;
+    font-size: 18px;
+}

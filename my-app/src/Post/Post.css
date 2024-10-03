@@ -1,0 +1,28 @@
+/* For Post */
+.post{
+    -webkit-box-shadow: 1px 1px 5px 4px #CECECE; 
+    box-shadow: 1px 1px 5px 4px #CECECE;
+    width: 450px;
+    margin-left: 10px;
+    padding: 20px;
+    margin: 10px;
+    border-radius: 5px;
+
+}
+.conta{
+    display: flex;
+}
+
+.image4{
+    border-radius: 50%;
+width: 30px;
+height: 30px;
+    
+}
+.image5{
+    /* border-radius: 50%; */
+width: 450px;
+height: 500px;
+margin-right: 100px;
+    
+}
