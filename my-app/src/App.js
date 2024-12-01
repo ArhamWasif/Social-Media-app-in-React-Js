@@ -9,7 +9,7 @@ import Rightbar from "./Rightbar/Rightbar";
 function App() {
   return (
     <div className="App">
-      {/* <Topbar/> */}
+      <Topbar />
       <div className="a">
         <div className="sidebar">
           <Sidebar />
